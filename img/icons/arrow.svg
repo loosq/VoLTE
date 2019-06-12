@@ -1,0 +1,1 @@
+<svg class="primary-row-nav__svg" width="20" height="20" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg"><defs><path d="M5 0v8L0 4l5-4z" transform="rotate(-90 9.5 3.5)" id="a"/><clipPath id="b"><use xlink:href="#a"/></clipPath></defs><path d="M6 8h8l-4 5-4-5z" fill="none"/><g clip-path="url(#b)"><path d="M0 0h20v20H0V0z" fill="red"/></g></svg>
